@@ -17,7 +17,7 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
-    <li>Java 11</li>
+    <li>Java</li>
     <li>Maven</li>
     <li><strong>Spring Boot</strong></li>
     <li><strong>Spring Web</strong></li>
