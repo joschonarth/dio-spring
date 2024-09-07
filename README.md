@@ -4,8 +4,6 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 
 ## 📝 Projetos 
 
-<div style="text-align: center;">
-
 | Projetos                                                                 | Descrição                                                                 |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [![Primeiros Passos](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/primeiros-passos) | Introdução ao Spring Framework com Spring Boot |
@@ -15,8 +13,6 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 | [![Spring Security](https://img.shields.io/badge/Spring%20Security-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security) | Adicionando Segurança a uma API REST com Spring Security |
 | [![Spring Security JWT](https://img.shields.io/badge/Spring%20Security%20JWT-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security-jwt) | Utilizando o Spring Security para autenticação via tokens JWT (JASON Web Token) |
 | [![Spring API REST RAILWAY](https://img.shields.io/badge/Spring%20API%20REST%20RAILWAY-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-api-rest-railway) | Publicando uma API REST na Nuvem Usado Spring Boot 3, Java 17 e Railway |
-
-</div>
 
 
 <h2>🛠 Tecnologias Utilizadas</h2>
