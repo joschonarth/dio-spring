@@ -4,15 +4,18 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 
 ## Projetos 📝
 
-| Projetos                | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| [Primeiros Passos](https://github.com/joschonarth/dio-java/tree/main/spring-boot/primeiros-passos)        | Introdução ao Spring Framework com Spring Boot |
-| [Spring Properties](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-properties-value)       | Mecanismo do Spring para gerenciar configurações via arquivos .properties |
-| [Spring DATA JPA](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-data-jpa)        | Biblioteca do Spring para acesso e manipulação de dados com JPA |
-| [Spring Web REST API](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-web-rest-api)     | Criando uma API REST Documentada com Spring Web e Swagger |
-| [Spring Security](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security)         | Adicionando Segurança a uma API REST com Spring Security |
-| [Spring Security JWT](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security-jwt)     | Utilizando o Spring Security para autenticação via tokens JWT (JASON Web Token) |
-| [Spring API REST RAILWAY](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-api-rest-railway) | Publicando uma API REST na Nuvem Usado Spring Boot 3, Java 17 e Railway |
+| Projetos                                                                 | Descrição                                                                 |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [![Primeiros Passos](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/primeiros-passos) | Introdução ao Spring Framework com Spring Boot |
+| [![Spring Properties](https://img.shields.io/badge/Spring%20Properties-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-properties-value) | Mecanismo do Spring para gerenciar configurações via arquivos .properties |
+| [![Spring DATA JPA](https://img.shields.io/badge/Spring%20DATA%20JPA-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-data-jpa) | Biblioteca do Spring para acesso e manipulação de dados com JPA |
+| [![Spring Web REST API](https://img.shields.io/badge/Spring%20Web%20REST%20API-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-web-rest-api) | Criando uma API REST Documentada com Spring Web e Swagger |
+| [![Spring Security](https://img.shields.io/badge/Spring%20Security-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security) | Adicionando Segurança a uma API REST com Spring Security |
+| [![Spring Security JWT](https://img.shields.io/badge/Spring%20Security%20JWT-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-security-jwt) | Utilizando o Spring Security para autenticação via tokens JWT (JASON Web Token) |
+| [![Spring API REST RAILWAY](https://img.shields.io/badge/Spring%20API%20REST%20RAILWAY-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot/spring-api-rest-railway) | Publicando uma API REST na Nuvem Usado Spring Boot 3, Java 17 e Railway |
+
+
+
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
