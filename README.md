@@ -4,26 +4,13 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 
 ## 📝 Projetos 
 
-| Projetos | Descrição |
-|----------|-----------|
-| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6CB52D?style=for-the-badge)]() | Aplicação inicial com Spring Boot e seus principais componentes. |
-| [![Spring Data JPA](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | Introdução ao uso de repositórios com Spring Data JPA. |
-| [![Spring REST](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | Criação de APIs RESTful utilizando Spring. |
-| [![Stream API](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
-| [![Spring Kafka](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
-
-
-## 📝 Projetos 
-
 | Projetos | Descrição | Material |
 |----------|-----------| -------- |
-| Spring Boot | Aplicação inicial com Spring Boot e seus principais componentes. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring Data JPA | Introdução ao uso de repositórios com Spring Data JPA. | [![Spring Data JPA](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring REST | Criação de APIs RESTful utilizando Spring. | [![Spring REST](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
-| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| 🍃 Spring Boot | Aplicação inicial com Spring Boot e seus principais componentes. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/spring-boot) |
+| 🍃 Spring Data JPA | Introdução ao uso de repositórios com Spring Data JPA. | [![Spring Data JPA](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/spring-data-jpa) |
+| 🍃 Spring REST | Criação de APIs RESTful utilizando Spring. | [![Spring REST](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/spring-rest) |
+| 🍃 Stream API | Operações com coleções utilizando a Stream API em Java. | [![Stream API](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/stream-api) |
+| 🍃 Spring Kafka | Integração do Spring com Apache Kafka para mensageria. | [![Spring Kafka](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/java-spring-kafka) |
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
