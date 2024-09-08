@@ -6,7 +6,7 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 
 | Projetos | Descrição |
 |----------|-----------|
-| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6CB52D?style=for-the-badge)]() | Projeto inicial com Spring Boot, configurando a aplicação e entendendo seus principais componentes, como beans, controllers e injeção de dependência. |
+| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6CB52D?style=for-the-badge)]() | Aplicação inicial com Spring Boot e seus principais componentes. |
 | [![Spring Data JPA](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
 | [![Spring REST](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
 | [![Stream API](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
@@ -17,7 +17,7 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 
 | Projetos | Descrição | Material |
 |----------|-----------| -------- |
-| Spring Boot | Projeto inicial com Spring Boot, configurando a aplicação e entendendo seus principais componentes, como beans, controllers e injeção de dependência. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring Boot | Aplicação inicial com Spring Boot e seus principais componentes. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
 | Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
 
 <h2>🛠 Tecnologias Utilizadas</h2>
