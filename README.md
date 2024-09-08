@@ -7,8 +7,8 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 | Projetos | Descrição |
 |----------|-----------|
 | [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6CB52D?style=for-the-badge)]() | Aplicação inicial com Spring Boot e seus principais componentes. |
-| [![Spring Data JPA](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
-| [![Spring REST](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
+| [![Spring Data JPA](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | Introdução ao uso de repositórios com Spring Data JPA. |
+| [![Spring REST](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | Criação de APIs RESTful utilizando Spring. |
 | [![Stream API](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
 | [![Spring Kafka](https://img.shields.io/badge/Primeiros%20Passos-6CB52D?style=for-the-badge)]() | |
 
@@ -18,6 +18,11 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 | Projetos | Descrição | Material |
 |----------|-----------| -------- |
 | Spring Boot | Aplicação inicial com Spring Boot e seus principais componentes. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring Data JPA | Introdução ao uso de repositórios com Spring Data JPA. | [![Spring Data JPA](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring REST | Criação de APIs RESTful utilizando Spring. | [![Spring REST](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
+| Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
 | Spring Boot | Descrição | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)]() |
 
 <h2>🛠 Tecnologias Utilizadas</h2>
