@@ -12,26 +12,13 @@ Este repositório contém projetos desenvolvidos com o Spring Framework, utiliza
 | 🍃 Stream API | Operações com coleções utilizando a Stream API em Java. | [![Stream API](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/stream-api) |
 | 🍃 Spring Kafka | Integração do Spring com Apache Kafka para mensageria. | [![Spring Kafka](https://img.shields.io/badge/Ver%20Material-6CB52D?style=for-the-badge)](https://github.com/joschonarth/dio-spring/tree/main/java-spring-kafka) |
 
-<h2>🛠 Tecnologias Utilizadas</h2>
-
-<ul>
-    <li>Java</li>
-    <li>Maven</li>
-    <li><strong>Spring Boot</strong></li>
-    <li><strong>Spring Web</strong></li>
-    <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
-    <li><strong>Hibernate Validator</strong></li>
-    <li><strong>Swagger</strong></li>
-    <li><strong>Spring Security</strong></li>
-    <li>Lombok</li>
-</ul>
 
 <h2> 📃 Documetação </h2>
 
 - [Documentação do Spring Boot](https://spring.io/projects/spring-boot)
 - [Documentação do Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Documentação do Spring Security](https://spring.io/projects/spring-security)
+- [Documentação do Apache Kafka](https://kafka.apache.org/documentation/)
 
 
 <h2>🔗 Links Úteis</h2>
