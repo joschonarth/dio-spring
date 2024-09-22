@@ -1,4 +1,4 @@
-# [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40" align="center">](https://spring.io/)  Spring Framework 🍃
+# [<img src="https://skillicons.dev/icons?i=spring&theme=light" width="40" align="center">](https://spring.io/)  Spring Framework 🍃
 
 Este repositório contém projetos desenvolvidos com o Spring Framework, utilizando diversos módulos e tecnologias para criar aplicações Java robustas e escaláveis.
 
