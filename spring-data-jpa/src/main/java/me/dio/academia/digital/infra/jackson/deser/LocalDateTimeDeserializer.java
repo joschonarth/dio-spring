@@ -8,9 +8,6 @@ import me.dio.academia.digital.infra.utils.JavaTimeUtils;
 import java.io.IOException;
 import java.time.LocalDateTime;
 
-/**
- * @author Venilton Falvo Jr
- */
 public class LocalDateTimeDeserializer extends StdDeserializer<LocalDateTime> {
 
 	private static final long serialVersionUID = -7209271947629593913L;
